@@ -1,0 +1,14 @@
+
+```toml
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Who-am-I"
+version = "0.1.0"
+description = "I am who am I"
+authors = [{ name = "Kevin ", email = "kevinoh0418@gmail.com" }]
+license = "MIT"  # SPDX 라이센스 표현
+```
+
